@@ -1,4 +1,4 @@
-# NHÓM 3 - BÁO CÁO BÀI TẬP TUẦN 2
+# NHÓM 3 - HỆ THỐNG NHÚNG - BÁO CÁO BÀI TẬP TUẦN 2
 
 ## A. Nội dung công việc
 
